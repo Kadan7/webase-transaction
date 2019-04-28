@@ -28,7 +28,7 @@
 ## 3.1 拉取代码
 执行命令：
 ```
-git clone https://github.com/WeBankFinTech/webase-transcation.git
+git clone https://github.com/WeBankFinTech/webase-transaction.git
 ```
 
 **注意**：代码拉取后，切换到相应分支。
